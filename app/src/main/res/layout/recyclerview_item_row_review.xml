@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:padding="8dp"
+        android:textStyle="bold"
+        android:id="@+id/tvReviewUserName"
+        android:text="@string/app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvReviewDetails"
+        android:textColor="@color/color_grey_400"
+        android:lineSpacingExtra="5dp"
+        android:textStyle="italic"
+        android:paddingLeft="16dp"
+        android:text="@string/loreum_data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_marginTop="16dp"
+        style="@style/Divider"
+        />
+
+</LinearLayout>

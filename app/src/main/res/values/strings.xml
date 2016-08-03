@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Popular movies</string>
+
+    <string name="movie_title_home">Popular Movies</string>
+    <string name="main_menu_settings">Settings</string>
+    <string name="main_menu_fav">Favorite</string>
+
+    <string name="pref_list_title">Sort Movies By</string>
+    <string name="pref_list_desc">Sorts Movie on the basis of preference</string>
+    <string name="pref_key">sort_order</string>
+    <string name="pref_default_value">popular</string>
+    <string name="details_overview">Overview of the Movie</string>
+    <string name="details_movie_title">Whiplash</string>
+    <string name="details_movie_rating">7.5</string>
+    <string name="details_movie_release_date">23/5/2010</string>
+    <string name="details_movie_release_duration">2:40 min</string>
+    <string name="loreum_data">To become an Android developer, you must know how to bring particular mobile experiences to life. Specifically, you need to know how to build clean and compelling user interfaces (UIs), fetch data from network services, and optimize the experience for various mobile devices. You will hone these fundamental skills in this project.</string>
+    <string name="details_trailer_title">Trailers</string>
+    <string name="button_show_reviews">Show Reviews</string>
+    <string name="toast_msg_data_load_failure">Data Could not be loaded</string>
+    <string name="exception_insert">Failed to insert a record into</string>
+    <string name="exception_delete">Failed to delete a record into</string>
+    <string name="exception_update">Failed to update a record into</string>
+    <string name="exception_Illegal">unknown uri</string>
+    <string name="toast_connection_failure">Trailers can\&apos;t be loaded right now</string>
+    <string name="toast_fab_success">Successfully marked as favorite</string>
+    <string name="toast_fab_failure">Some unknown error occurred</string>
+    <string name="content_authority">com.design.vikas.popularmovies</string>
+    <string name="toast_review">No Reviews found for this movie</string>
+    <string name="toast_fab">Already added in favorites Collection</string>
+
+
+</resources>
